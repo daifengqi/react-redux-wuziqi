@@ -19,6 +19,7 @@
 ### TODO
 
 1. 用一个通用的组件库（例如[antd](https://ant.design/index-cn)）来美化一下界面。
+2. 封装到Electron和Native
 
 
 
