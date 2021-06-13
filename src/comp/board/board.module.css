@@ -1,0 +1,10 @@
+.h1 {
+  color: #f9cc9d;
+}
+
+canvas {
+  display: block;
+  background: #f9cc9d;
+  margin: 40px;
+  box-shadow: -2px -2px 2px #f3f2f2, 5px 5px 5px #6f6767;
+}
